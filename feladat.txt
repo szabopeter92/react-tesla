@@ -1,0 +1,11 @@
+Feladat:
+    1. Hozzatok létre egy react appot "react-gyak" néven az asztalon
+    2. A feladat az lesz, hogy jelenítsünk meg felhasználói adatokat emberekről.
+    3. Az adatok amiket meg kell jeleníteni:
+        - Felhasználónév - h1
+        - E-mail cím - p
+        - Lakóhely - p (irszam, város, utca, házszám)
+        - Regisztráció dátuma -p (2022-03-05)
+    4. A feladat megoldásához használjatok függvény komponenst (User komponens)
+    5. A megjelenítendő adatokat propsokkal vegyétek fel
+    6. Formázás szempontjából az adatok egymás alatt jelenjenek meg egy containerben, melynek háttérszíne legyen világoskék a betűszíne pedig sötétszürke, alsó eltartása 30px
